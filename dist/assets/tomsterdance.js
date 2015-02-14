@@ -209,7 +209,7 @@ catch(err) {
 if (runningTests) {
   require("tomsterdance/tests/test-helper");
 } else {
-  require("tomsterdance/app")["default"].create({"name":"tomsterdance","version":"0.0.0.99e10c8b"});
+  require("tomsterdance/app")["default"].create({"name":"tomsterdance","version":"0.0.0.0d512313"});
 }
 
 /* jshint ignore:end */
