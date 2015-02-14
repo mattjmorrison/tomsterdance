@@ -19,7 +19,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "tomster_cli": "*"
+    "tomster-cli": "*"
   },
   "devDependencies": {
     "broccoli-asset-rev": "^2.0.0",
